@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">FCM</string>
+    <string name="topic_kotlin">Subscribe to Kotlin</string>
+    <string name="unsubscribe_kotlin">Unsubscribe to Kotlin</string>
+    <string name="topic_android">Subscribe to Android</string>
+    <string name="unsubscribe_android">Unsubscribe to Android</string>
+    <string name="msg_subscribed">Subscription Success</string>
+    <string name="msg_unsubscribed">Unsubscribed From Topic</string>
+    <string name="msg_subscribe_failed">Subscription Failed</string>
+    <string name="msg_unsubscribe_failed">Failed to unsubscribe Please try again</string>
+    <string name="channel_id">com.example.fcm</string>
+    <string name="channelName">FCM Service</string>
+    <string name="notification_title">Title</string>
+    <string name="notification_text">Text</string>
 </resources>
